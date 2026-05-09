@@ -4,3 +4,4 @@ b = 40
 print (a+b)
 
 print "I love you guy !"
+print "Kheum sokkhen"
